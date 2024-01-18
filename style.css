@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* fonts  */
+.Montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+.bebas {
+  font-family: "Bebas Neue", sans-serif;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.containerr {
+  width: 80%;
+  max-width: 1440px;
+  margin: auto;
+}
+/* fonts  */
+img {
+  max-width: 100%;
+}
+.btn-primary {
+  width: 170px;
+  height: 60px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+}
